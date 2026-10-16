@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://de-ali.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=react&logoColor=white" alt="Portfolio"></a>
   <a href="https://aiotechstudio.com/"><img src="https://img.shields.io/badge/AIOTECH%20Studio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="AIOTECH Studio"></a>
   <a href="https://linkedin.com/in/alihassan-004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:alihassan10120@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -118,5 +119,5 @@ Delivered agent-assisted with Claude Code, reviewed and merged by the upstream m
 
 <p align="center">
   <b>Open to senior IC roles, contracts and relocation.</b><br>
-  <a href="mailto:alihassan10120@gmail.com">alihassan10120@gmail.com</a> · response within 24h
+  <a href="https://de-ali.netlify.app/">Portfolio</a> · <a href="mailto:alihassan10120@gmail.com">alihassan10120@gmail.com</a> · response within 24h
 </p>
