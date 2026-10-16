@@ -79,9 +79,9 @@ Most client work is under NDA — case studies on request.
 
 ## Open source
 
-**[liberatedbread-mobile](https://github.com/liberatedbread/liberatedbread-mobile)** — a Flutter + Rust app that keeps BLE smart devices usable after the manufacturer's servers shut down. Rust owns the protocol layer (spec parsing, codecs, Bluetooth SIG profiles) and reaches Flutter through `flutter_rust_bridge` FFI; Riverpod drives the UI.
+**Liberated Bread Mobile** — a Flutter + Rust app that keeps BLE smart devices usable after the manufacturer's servers shut down. Rust owns the protocol layer (spec parsing, codecs, Bluetooth SIG profiles) and reaches Flutter through `flutter_rust_bridge` FFI; Riverpod drives the UI.
 
-My merged contribution, [#3 *Drive BLE reads from the protocol specs*](https://github.com/liberatedbread/liberatedbread-mobile/pull/3), moved BLE reads onto the YAML spec catalogue — 115 files, +29k/-396. 70 of the 71 upstream device specs had been failing to parse, which is why only a single example device had ever shipped; making the parser tolerant of real-world spec keys and transports turned the whole catalogue on. Adding a device is now a spec refresh rather than a code change.
+My merged contribution, *Drive BLE reads from the protocol specs*, moved BLE reads onto the YAML spec catalogue — 115 files, +29k/-396. 70 of the 71 upstream device specs had been failing to parse, which is why only a single example device had ever shipped; making the parser tolerant of real-world spec keys and transports turned the whole catalogue on. Adding a device is now a spec refresh rather than a code change.
 
 Delivered agent-assisted with Claude Code, reviewed and merged by the upstream maintainer.
 
