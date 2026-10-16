@@ -1,7 +1,8 @@
 <h1 align="center">Ali Hassan</h1>
 
 <p align="center">
-  <b>Senior Flutter Engineer</b> · Cross-platform mobile at production scale
+  <b>Senior Flutter Engineer</b> · Cross-platform mobile at production scale<br>
+  Founder of <a href="https://aiotechstudio.com/"><b>AIOTECH Studio</b></a>
 </p>
 
 <p align="center">
@@ -9,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aiotechstudio.com/"><img src="https://img.shields.io/badge/AIOTECH%20Studio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="AIOTECH Studio"></a>
   <a href="https://linkedin.com/in/alihassan-004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:alihassan10120@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://stackoverflow.com/users/16666913/ali-hassan"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
@@ -22,6 +24,8 @@ I build and lead Flutter apps that stay maintainable through years of feature gr
 Based in **Lahore, Pakistan** · remote-first · open to relocation. Clients shipped for in **Pakistan, Oman, Cambodia, the Netherlands and the USA** across fintech, edtech, e-commerce, healthcare, hospitality and Web3.
 
 Currently maintaining a regulated fintech wallet in production. Previously led a 4-engineer mobile team delivering two EdTech apps live in 10+ countries.
+
+I also run **[AIOTECH Studio](https://aiotechstudio.com/)**, an AI software development studio building AI-powered web and mobile apps, MVPs, SaaS products, agents and automation for startups and enterprises.
 
 Two directions I push hardest: **AI inside mobile products** — LLM-backed features that ship to stores with real subscription billing behind them — and **connected devices**, where a Flutter UI has to talk to real hardware over BLE.
 
@@ -89,6 +93,7 @@ Delivered agent-assisted with Claude Code, reviewed and merged by the upstream m
 
 | | |
 |---|---|
+| **2026 — now** | Founder · **[AIOTECH Studio](https://aiotechstudio.com/)** — AI software development studio |
 | **2025 — now** | Software Engineer · **Avanza Solution** (Cambodia, contract) — Aeon Wallet fintech |
 | **2024 — 2025** | Senior Software Engineer · **International Maths Bee** (USA) — led 4 engineers, 2 apps |
 | **2024** | Software Engineer · **PixelTech** — 3 cross-platform apps, CI/CD adoption |
