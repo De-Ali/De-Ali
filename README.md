@@ -96,8 +96,6 @@ Delivered agent-assisted with Claude Code, reviewed and merged by the upstream m
 | **2020 — 2023** | Software Engineer · **Tsoftek** — 5+ apps, 50K+ users, 15+ REST integrations |
 | **2019 — 2020** | Mobile Developer · **Fiverr** (freelance) — top-rated, international clients |
 
-**BSc Computer Science** — COMSATS University Islamabad (Sahiwal Campus) · KingShip Scholarship · Student of the Semester, Fall 2018
-
 ## GitHub
 
 <p align="left">
